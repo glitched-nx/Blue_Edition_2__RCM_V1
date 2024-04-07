@@ -1,0 +1,7 @@
+{
+    "PluginName": "ldn_mitm",
+    "NotLoadedErrorMainGuiListItemText": "ldn_mitm ist nicht geladen.",
+    "WrongStateErrorMainGuiListItemText": "Falscher Zustand",
+    "LoggingToggleListItemText": "Protokollierung",
+    "EnabledToggleListItemText": "Aktiviert"
+}
