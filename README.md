@@ -1,3 +1,3 @@
-# Blue_Edition_NX__RCM
+# Blue_Edition_2.0.0__RCM
 
-Blue_Edition_NX__RCM  --  AIO CFW PACK
+AIO CFW PACK RCM
